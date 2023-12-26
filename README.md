@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
